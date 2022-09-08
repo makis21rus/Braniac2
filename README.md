@@ -1,1 +1,3 @@
-# Braniac2
+#Проект Braniac
+
+Мой первый проект на Django
